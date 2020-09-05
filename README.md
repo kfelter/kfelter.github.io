@@ -14,6 +14,9 @@ Likes to code
 * [react/python/serverless](https://github.com/felts94/CoreColor) - color picking and voting app deployed using aws s3 and aws lambda
 * [go concurrecny model](https://github.com/felts94/go_concurrency_example) - examples of how to use channels and go routines to design concurrent go code
 
+## Code
+
+Simple Hello World in Go
 
 ```go
 package main
