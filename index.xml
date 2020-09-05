@@ -6,10 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2020 11:31:56 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2020 16:38:50 -0400</lastBuildDate>
     
 	<atom:link href="https://felts94.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://felts94.github.io/posts/second-post/</link>
+      <pubDate>Sat, 05 Sep 2020 16:38:50 -0400</pubDate>
+      
+      <guid>https://felts94.github.io/posts/second-post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My First Post</title>
