@@ -2,4 +2,4 @@
 
 Contact: mail@kfelter.com
 
-Resume: [pdf](/Resume.pdf)
+Resume: [pdf](/resume.pdf)
