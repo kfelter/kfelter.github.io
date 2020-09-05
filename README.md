@@ -1,5 +1,5 @@
 # Kyle Felter
 
-Contact: mail@kfelter.com
+Contact: [email](mail@kfelter.com)
 
 Resume: [pdf](/resume.pdf)
