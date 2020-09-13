@@ -4,17 +4,15 @@ Contact: mail@kfelter.com
 
 Resume: [pdf](/resume.pdf)
 
-## About
-Likes to code
-
 ## Projects
 * [tolerance](https://github.com/felts94/tolerance) - fault tolerant math operations in golang inspired by spacex
 * [go bounties](https://gobounties.dev) - static site that golang engineers can use to find small jobs to make some extra money
 * [c++ arduino game](https://github.com/felts94/ard-memory-game) - memory game deployed on an arduino
 * [react/python/serverless](https://github.com/felts94/CoreColor) - color picking and voting app deployed using aws s3 and aws lambda
 * [go concurrecny model](https://github.com/felts94/go_concurrency_example) - examples of how to use channels and go routines to design concurrent go code
+* [Javascript Game I made in College](https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/kyle_felter.html) - Very fun senior project for my computer engineering degree. While creating this game I had to think about limitations of graphics within the browser and how to make the code efficient enough to run on most computers.
 
-## Code
+## Code Samples
 
 Simple Hello World in Go
 
