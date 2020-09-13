@@ -10,8 +10,8 @@ Resume: [pdf](/resume.pdf)
 * [c++ arduino game](https://github.com/felts94/ard-memory-game) - memory game deployed on an arduino
 * [react/python/serverless](https://github.com/felts94/CoreColor) - color picking and voting app deployed using aws s3 and aws lambda
 * [go concurrecny model](https://github.com/felts94/go_concurrency_example) - examples of how to use channels and go routines to design concurrent go code
-* [Javascript Game I made in College](https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/kyle_felter.html) - Very fun senior project for my computer engineering degree. While creating this game I had to think about limitations of graphics within the browser and how to make the code efficient enough to run on most computers.
-
+* [Caverunner](https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/kyle_felter.html) - While creating this game I had to think about limitations of graphics within the browser and how to make the code efficient enough to run on most computers.
+* [Path finding Hokie](https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/Proj8_4.html) - another fun game I made that uses BFS to move a Hokie around in a maze.
 ## Code Samples
 
 Simple Hello World in Go
