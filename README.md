@@ -2,7 +2,7 @@
 
 Contact: kylerfelter@gmail.com
 
-Resume: [pdf](/resume.pdf) [txt](/resume.txt)
+Resume: [pdf](/resume.pdf) [MD](/resume.md)
 
 ## Projects
 * [tolerance](https://github.com/kfelter/tolerance) - fault tolerant math operations in golang inspired by spacex
