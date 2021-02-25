@@ -2,7 +2,9 @@
 
 # KYLE FELTER
 
-kylerfelter@gmail.com (301) 502-5813 Alexandria, Virginia 22314
+kylerfelter@gmail.com
+
+Alexandria, Virginia 22314
 
 ## About
 
