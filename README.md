@@ -4,7 +4,7 @@ Contact: kylerfelter@gmail.com
 
 ## Projects
 * [gRPC example](https://github.com/kfelter/grpc-example) - simple grpc NoSQL database client and server using golang
-* [protobuf example](https://github.com/kfelter/grpc-example) - simple example demonstrating how to use protobuf in golang
+* [protobuf example](https://github.com/kfelter/protobuf-example) - simple example demonstrating how to use protobuf in golang
 * [tolerance](https://github.com/kfelter/tolerance) - fault tolerant math operations in golang inspired by spacex
 * [apguard](https://github.com/kfelter/apguard) - distributed proxy that acts as a rate limiter for downstream http services
 * [c++ arduino game](https://github.com/kfelter/ard-memory-game) - memory game deployed on an arduino
