@@ -5,7 +5,7 @@ kylerfelter@gmail.com
 [github.com/kfelter](https://kfelter/?ref=gh_profile&dst=https://github.com/kfelter)
 
 ## Projects
-* [ref collector](https://github.com/kfelter/ref_collector) - collects hits on my various projects and writes data about the hit to postgres
+* [ref collector](https://github.com/kfelter/ref_collector) - collects visits on my various projects and writes data about the visit to postgres
 * [things](https://kfelter.com/?ref=gh_profile&dst=https://things.kfelter.com) - basic crud app for managing raspberry pi clusters
 * [react/python/serverless](https://kfelter.com/?ref=gh_profile&dst=https://hueput.kfelter.com) - color picking and voting app deployed using aws s3 and aws lambda
 * [recursive forest generation](https://kfelter.com/?ref=gh_profile&dst=https://forest.kfelter.com) - fun project that uses javascript to recursively generate a forest
