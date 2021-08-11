@@ -6,7 +6,6 @@ kylerfelter@gmail.com
 
 ## Projects
 * [ref collector](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/ref_collector) - collects visits on my various projects and writes data about the visit to postgres
-* [things](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/termpi) - basic crud app for managing raspberry pi clusters
 * [react/python/serverless](https://kfelter.com/?ref=gh_profile&dst=http://hueput.kfelter.com) - color picking and voting app deployed using aws s3 and aws lambda
 * [recursive forest generation](http://kfelter.com/?ref=gh_profile&dst=http://forest.kfelter.com) - fun project that uses javascript to recursively generate a forest
 * [gRPC example](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/grpc-example) - simple grpc NoSQL database client and server using golang
@@ -18,6 +17,7 @@ kylerfelter@gmail.com
 * [Caverunner](http://kfelter.com/?ref=gh_profile&dst=https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/kyle_felter.html) - While creating this game I had to think about limitations of graphics within the browser and how to make the code efficient enough to run on most computers.
 * [Path finding Hokie](http://kfelter.com/?ref=gh_profile&dst=https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/Proj8_4.html) - fun game that uses BFS to move a Hokie around in a maze.
 * [Basketball Game](http://kfelter.com/?ref=gh_profile&dst=https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/Proj5_4.html) - physics simulation in javascript used to make a small basketball game.
+* [things](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/termpi) (not active)- basic crud app for managing raspberry pi clusters
 
 
 ## Resume
@@ -45,9 +45,14 @@ Golang (5+ years), ClI/CD, Docker And Micro Service Architecture, kubernetes, py
 
 Megaphone was purchased by Spotify, my contributions to the adserver and content delivery code around Streaming
 Ad Insertion was a large contributor to the deal. I still lead the backend development team that focuses on scaling up
-to 1 billion podcast downloads a month and beyond
+to 1 billion podcast downloads a month and beyond.
 
-Recently I migrated our infrastrucure from on prem machines running rancher to gke in google cloud
+Recently I 
+* migrated our infrastrucure from on prem machines running rancher to gke in google cloud
+* upgraded a large batch job that to an event driven system that improved accuracy, observability, reliability, speed and scaling potential of the system
+* created new revenue streams by adding the ability to communicate via the VAST spec to our adserver
+* created a new reporting pipeline to track ad impression events for billing purposes
+* led code walkthrough's to help other developers understand the business logic of applications
 
 ### 09/2019 - 01/2021 Software Engineer Megaphone
 
