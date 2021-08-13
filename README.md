@@ -2,7 +2,7 @@
 
 kylerfelter@gmail.com
 
-[github.com/kfelter](http://kfelter/?ref=gh_profile&dst=https://github.com/kfelter)
+[github.com/kfelter](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter)
 
 ## Projects
 * [ref collector](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/ref_collector) - collects visits on my various projects and writes data about the visit to postgres
