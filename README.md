@@ -1,5 +1,7 @@
 # Kyle Felter
 
+![](30238027.jpg?raw=true)
+
 kylerfelter@gmail.com
 
 [github.com/kfelter](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter)
@@ -15,8 +17,9 @@ I'm an expert in writing golang solutions for large scale engineering challenges
 Golang (5+ years), Python3, ClI/CD, Docker And Micro Service Architecture, kubernetes, python, Postgres, MongoDB, Google BigTable, Google BigQuery, Google PubSub, Kafka, cloud native design, minimalistic code organization (the less there is the less likely there will be a bug), Google Cloud Platform, AWS, Linux, Ansible, Terraform, Makefiles, Markdown, Yaml
 
 ## Employment History
-
-### 01/2021 - Present Engineer II Spotify
+ 
+### Spotify
+Backend Software Engineer II (Golang) 01/2021 - Present
 
 Megaphone was purchased by Spotify, my contributions to the adserver and content delivery code around Streaming
 Ad Insertion was a large contributor to the deal. I still lead the backend development team that focuses on scaling up
@@ -29,7 +32,8 @@ to 1 billion podcast downloads a month and beyond.
 * created Streaming Ad Insertion Tracking capabilities for podcasting
 * led code walkthrough's to help other developers understand the business logic of applications
 
-### 09/2019 - 01/2021 Software Engineer Megaphone
+### Megaphone
+Software Engineer (Golang) 09/2019 - 01/2021
 
 Megaphone is a leader in technology supporting podcasts. I am the lead developer on the backend services that
 support audio streaming and dynamic advertisement insertion.
@@ -41,7 +45,8 @@ support audio streaming and dynamic advertisement insertion.
 * debugged large systems
 * mentored junior golang developers through PRs and 1 on 1 meetings
 
-### 11/2018 - 09/2019 Full Stack Developer, Product Decipher Technology Studios
+### Decipher Technology Studios
+Software Engineer (Golang) 11/2018 - 09/2019
 
 Decipher used the envoy proxy along with golang plugins to create a tool to manage a service mesh architecture. They also created a product to encrypt blobs of data before uploading encrypted blobs to s3, along with a complex authorization solution. I worked on the authorization solution for the data encryption product.
 
@@ -50,7 +55,8 @@ Decipher used the envoy proxy along with golang plugins to create a tool to mana
 * created and maintained CI/CD pipeline written in circleci YAML
 * dockerized golang applications for deployments using kubernetes
 
-### 07/2017 - 11/2018 Associate Technical Consultant Blackstone Technology Group
+### Blackstone Technology Group
+Software Engineer (Golang) 07/2017 - 11/2018
 
 Blackstone was a government contracting agency that helped US DHS with all cloud applications and technology. 
 
@@ -90,11 +96,3 @@ solve real world problems.
 Studios
 
 service that created a graph representing microservice dependencies using http request tracing
-
-
-## Additional Info
-
-GitHub: kfelter
-
-Projects page: kfelter.github.io
-
