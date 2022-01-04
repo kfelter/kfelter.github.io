@@ -98,3 +98,5 @@ Studios
 service that created a graph representing microservice dependencies using http request tracing
 
 [PDF Version](https://kfelter.com/?as=pdf)
+
+[TXT Version](README.md?raw=true)
