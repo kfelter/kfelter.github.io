@@ -21,16 +21,14 @@ Golang (5+ years), Python3, ClI/CD, Docker And Micro Service Architecture, kuber
 ### Spotify
 Backend Software Engineer II (Golang) 01/2021 - Present
 
-Megaphone was purchased by Spotify, my contributions to the adserver and content delivery code around Streaming
-Ad Insertion was a large contributor to the deal. I still lead the backend development team that focuses on scaling up
-to 1 billion podcast downloads a month and beyond.
+Megaphone was purchased by Spotify, my contributions to the adserver and content delivery code around Streaming Ad Insertion was a large contributor to the deal. I am continuing my role, leading the backend development team focused on our largest applications written in golang. We are focused on scaling up to 1 billion podcast downloads a month and adding new features to an existing api.
 
-* migrated our infrastructure from on prem machines running rancher to gke in google cloud
-* upgraded a large batch job that to an event driven system that improved accuracy, observability, reliability, speed and scaling potential of the system
-* created new revenue streams by adding the ability to communicate via the VAST spec to our adserver
-* created a new reporting pipeline to track ad impression events for billing purposes 
-* created Streaming Ad Insertion Tracking capabilities for podcasting
-* led code walkthrough's to help other developers understand the business logic of applications
+* Migrated our infrastructure from on prem machines running rancher to gke in google cloud
+* Upgraded a large batch job that to an event driven system that improved accuracy, observability, reliability, speed and scaling potential of the system
+* Created new revenue streams by adding the ability to communicate via the VAST spec to our adserver
+* Created a new reporting pipeline to track ad impression events for billing purposes 
+* Created Streaming Ad Insertion Tracking capabilities for podcasting
+* Led code walkthrough's to help other developers understand the business logic of applications
 
 ### Megaphone
 Software Engineer (Golang) 09/2019 - 01/2021
@@ -38,32 +36,32 @@ Software Engineer (Golang) 09/2019 - 01/2021
 Megaphone is a leader in technology supporting podcasts. I am the lead developer on the backend services that
 support audio streaming and dynamic advertisement insertion.
 
-* migrated audio data services from heroku with a managed cdn to kubernetes on bare metal
-* improved audio delivery architecture using golang/nginx/docker/kubernetes
-* added features to the advertisement delivery service written in golang
-* setup CI/CD pipelines to automate testing and deployment of code updates
-* debugged large systems
-* mentored junior golang developers through PRs and 1 on 1 meetings
+* Migrated audio data services from heroku with a managed cdn to kubernetes on bare metal
+* Improved audio delivery architecture using golang/nginx/docker/kubernetes
+* Added features to the advertisement delivery service written in golang
+* Setup CI/CD pipelines to automate testing and deployment of code updates
+* Debugged large systems
+* Mentored junior golang developers through PRs and 1 on 1 meetings
 
 ### Decipher Technology Studios
 Software Engineer (Golang) 11/2018 - 09/2019
 
 Decipher used the envoy proxy along with golang plugins to create a tool to manage a service mesh architecture. They also created a product to encrypt blobs of data before uploading encrypted blobs to s3, along with a complex authorization solution. I worked on the authorization solution for the data encryption product.
 
-* api integration using golang to write and consume restful apis
-* wrote a service to generate and sign jwt tokens with complex authorization structures using lisp
-* created and maintained CI/CD pipeline written in circleci YAML
-* dockerized golang applications for deployments using kubernetes
+* Api integration using golang to write and consume restful apis
+* Wrote a service to generate and sign jwt tokens with complex authorization structures using lisp
+* Created and maintained CI/CD pipeline written in circleci YAML
+* Dockerized golang applications for deployments using kubernetes
 
 ### Blackstone Technology Group
 Software Engineer (Golang) 07/2017 - 11/2018
 
 Blackstone was a government contracting agency that helped US DHS with all cloud applications and technology. 
 
-* integrated AWS EC2 api, keycloak, Ansible, and Terraform to create a product that helped migrate DHS applications to the AWS cloud
-* wrote go code to integrate the services into a single api
-* wrote Angular/Typescript to consume the api and be a full stack application
-* integrated hashicorp products into the EC2 instances like consul and vault
+* Integrated AWS EC2 api, keycloak, Ansible, and Terraform to create a product that helped migrate DHS applications to the AWS cloud
+* Wrote go code to integrate the services into a single api
+* Wrote Angular/Typescript to consume the api and be a full stack application
+* Integrated hashicorp products into the EC2 instances like consul and vault
 
 ## Education History
 
