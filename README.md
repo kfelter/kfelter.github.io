@@ -56,7 +56,7 @@ Decipher used the envoy proxy along with golang plugins to create a tool to mana
 ### Blackstone Technology Group
 Software Engineer (Golang) 07/2017 - 11/2018
 
-Blackstone was a government contracting agency that helped US DHS with all cloud applications and technology. 
+Blackstone was a government contracting agency that helped US DHS with all cloud applications and technology.I worked as an integration engineer working with golang, terraform, and ansible.
 
 * Integrated AWS EC2 api, keycloak, Ansible, and Terraform to create a product that helped migrate DHS applications to the AWS cloud
 * Wrote go code to integrate the services into a single api
