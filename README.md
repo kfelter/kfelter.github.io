@@ -10,16 +10,25 @@ Alexandria, VA
 
 ## About
 
-I'm an expert in writing golang solutions for large scale engineering challenges. I've created and maintained large data pipelines, public api's, and background processing jobs. I've also managed infrastructure and service uptimes with monitoring and alerting technologies.
+I'm an expert in writing and supporting golang solutions for large scale engineering challenges. I've created and maintained big data pipelines, public api's, and background processing jobs. I've also managed infrastructure and service uptimes with monitoring technologies such as prometheus, grafana, pager duty and new relic.
 
 ## Skills and Abilities
 
-Golang (5+ years), Python3, ClI/CD, Docker And Micro Service Architecture, kubernetes, python, Postgres, MongoDB, Google BigTable, Google BigQuery, Google PubSub, Kafka, cloud native design, minimalistic code organization (the less there is the less likely there will be a bug), Google Cloud Platform, AWS, Linux, Ansible, Terraform, Makefiles, Markdown, Yaml
+Golang (5+ years), Python3, ClI/CD, Docker And Micro Service Architecture, kubernetes, python, Postgres, MongoDB, redis, Google BigTable, Google BigQuery, Google PubSub, Kafka, cloud native design, minimalistic code organization (the less there is the less likely there will be a bug), Google Cloud Platform, AWS, Linux, Ansible, Terraform, Makefiles, Markdown, Yaml
 
 ## Employment History
+
+### Solo.io
+Senior Software Engineer 02/2022 - Present
+
+Solo.io is the leader in istio and kubernetes automation.
+
+* Improved performance of kubernetes pod lookups by 10x and implemented benchmark tests to measure query performance
+* Implemented redis storage and retrieval of kubernetes statuses in a sharded environment with eventual consistency
+* Participate in support call rotation to receive customer calls for high priority issues
  
 ### Spotify
-Backend Software Engineer II (Golang) 01/2021 - Present
+Backend Software Engineer II (Golang) 01/2021 - 02/2022
 
 Megaphone was purchased by Spotify, my contributions to the adserver and content delivery code around Streaming Ad Insertion was a large contributor to the deal. I am continuing my role, leading the backend development team focused on our largest applications written in golang. We are focused on scaling up to 1 billion podcast downloads a month and adding new features to an existing api.
 
