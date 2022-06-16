@@ -1,3 +1,4 @@
+Format: [PDF](https://kfelter.com/?as=pdf) | [TXT](README.md?raw=true)
 # Kyle Felter
 
 ![](30238027.jpg?raw=true)
@@ -82,11 +83,12 @@ lead me to change majors into computer engineering, which focuses on creating pr
 solve real world problems.
 
 ## Projects
+* [gRPC example](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/grpc-example) - simple grpc NoSQL database client and server using golang
+* [protobuf example](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/protobuf-example) - simple example demonstrating how to use protobuf in golang
+* [jumpsuit](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/jumpsuit) - create a CRUD api out of any struct in golang with only a few lines of code
 * [ref collector](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/ref_collector) - collects visits on my various projects and writes data about the visit to postgres
 * [react/python/serverless](https://kfelter.com/?ref=gh_profile&dst=http://hueput.kfelter.com) - color picking and voting app deployed using aws s3 and aws lambda
 * [recursive forest generation](http://kfelter.com/?ref=gh_profile&dst=http://forest.kfelter.com) - fun project that uses javascript to recursively generate a forest
-* [gRPC example](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/grpc-example) - simple grpc NoSQL database client and server using golang
-* [protobuf example](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/protobuf-example) - simple example demonstrating how to use protobuf in golang
 * [tolerance](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/tolerance) - fault tolerant math operations in golang inspired by spacex
 * [apguard](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/apguard) - distributed proxy that acts as a rate limiter for downstream http services
 * [c++ arduino game](http://kfelter.com/?ref=gh_profile&dst=https://youtu.be/zAuerOaZ_Z8) - memory game deployed on an arduino
@@ -103,7 +105,3 @@ solve real world problems.
 Studios
 
 service that created a graph representing microservice dependencies using http request tracing
-
-[PDF Version](https://kfelter.com/?as=pdf)
-
-[TXT Version](README.md?raw=true)
