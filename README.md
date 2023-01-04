@@ -25,7 +25,7 @@ With my deep expertise in Golang development, I have consistently delivered high
 ### Contract (Golang, SQL, HTML, On-Prem) 10/2022 - 02/2023
 
 * Client's email system needed to be completely replaced with an on prem solution
-* Created a application using golang that was able to send 5MM emails a day
+* Created an application using golang that was able to send 5MM emails a day
 * Created an internal tool to automate the creation of email campaigns and scheduling emails
 
 ### Solo.io
@@ -59,7 +59,6 @@ support audio streaming and dynamic advertisement insertion.
 * Improved audio delivery architecture using golang/nginx/docker/kubernetes
 * Added features to the advertisement delivery service written in golang
 * Setup CI/CD pipelines to automate testing and deployment of code updates
-* Debugged large systems
 * Mentored junior golang developers through PRs and 1 on 1 meetings
 
 ### Decipher Technology Studios
