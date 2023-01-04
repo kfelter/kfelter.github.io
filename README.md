@@ -7,7 +7,7 @@ kylerfelter@gmail.com
 
 [github.com/kfelter](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter)
 
-Alexandria, VA
+Nashville, TN
 
 ## About
 
@@ -15,12 +15,21 @@ I'm an expert in writing and supporting golang solutions for large scale enginee
 
 ## Skills and Abilities
 
-Golang (5+ years), CI/CD, Docker And Micro Service Architecture, kubernetes, python, SQL, Postgres, MongoDB, redis, Google BigTable, Google BigQuery, Google PubSub, Kafka, cloud native design, minimalistic code organization (the less there is the less likely there will be a bug), Google Cloud Platform, AWS, Linux, Ansible, Terraform, Makefiles, Markdown, Yaml
+- Golang (6 years), Python
+- SQL, NoSQL, Redis
+- Docker
+- KubernetesCI/CD, Docker And Micro Service Architecture, kubernetes, python, SQL, Postgres, MongoDB, redis, Google BigTable, Google BigQuery, Google PubSub, Kafka, cloud native design, minimalistic code organization (the less there is the less likely there will be a bug), Google Cloud Platform, AWS, Linux, Ansible, Terraform, Makefiles, Markdown, Yaml
 
 ## Employment History
 
+### Contract (Golang, SQL, HTML, On-Prem) 10/2022 - 02/2023
+
+* Client's email system needed to be completely replaced with an on prem solution
+* Created a application using golang that was able to send 5MM emails a day
+* Created an internal tool to automate the creation of email campaigns and scheduling emails
+
 ### Solo.io
-Senior Software Engineer (Golang, On-Prem) 02/2022 - Present
+Senior Software Engineer (Golang, On-Prem) 02/2022 - 10/2022
 
 Solo.io is the leader in istio and kubernetes automation.
 
