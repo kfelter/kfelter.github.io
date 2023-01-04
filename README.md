@@ -11,14 +11,14 @@ Nashville, TN
 
 ## About
 
-I'm an expert in writing and supporting golang solutions for large scale engineering challenges. I've created and maintained big data pipelines, public api's, and background processing jobs. I've also managed infrastructure and service uptimes with monitoring technologies such as prometheus, grafana, pager duty and new relic.
+With my deep expertise in Golang development, I have consistently delivered highly efficient, reliable solutions to even the most daunting engineering challenges. I have a proven track record of creating and maintaining massive data pipelines, robust public APIs, and critical background processing jobs. And when it comes to infrastructure management, I have employed a range of powerful tools - Prometheus, Grafana, Pager Duty, New Relic - to ensure the uninterrupted operation of mission-critical services.
 
 ## Skills and Abilities
 
 - Golang (6 years), Python
 - SQL, NoSQL, Redis
-- Docker
-- KubernetesCI/CD, Docker And Micro Service Architecture, kubernetes, python, SQL, Postgres, MongoDB, redis, Google BigTable, Google BigQuery, Google PubSub, Kafka, cloud native design, minimalistic code organization (the less there is the less likely there will be a bug), Google Cloud Platform, AWS, Linux, Ansible, Terraform, Makefiles, Markdown, Yaml
+- Docker, Kubernetes, CI/CD
+- Google Cloud Platform, AWS, On-Prem
 
 ## Employment History
 
