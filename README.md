@@ -1,11 +1,10 @@
-Format: [PDF](https://kfelter.com/?as=pdf) | [TXT](README.md?raw=true)
 # Kyle Felter
 
 ![](30238027.jpg?raw=true)
 
 kylerfelter@gmail.com
 
-[github.com/kfelter](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter)
+[github.com/kfelter](https://github.com/kfelter)
 
 Nashville, TN
 
@@ -91,20 +90,20 @@ lead me to change majors into computer engineering, which focuses on creating pr
 solve real world problems.
 
 ## Projects
-* [gRPC example](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/grpc-example) - simple grpc NoSQL database client and server using golang
-* [protobuf example](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/protobuf-example) - simple example demonstrating how to use protobuf in golang
-* [jumpsuit](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/jumpsuit) - create a CRUD api out of any struct in golang with only a few lines of code
-* [ref collector](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/ref_collector) - collects visits on my various projects and writes data about the visit to postgres
-* [react/python/serverless](https://kfelter.com/?ref=gh_profile&dst=http://hueput.kfelter.com) - color picking and voting app deployed using aws s3 and aws lambda
-* [recursive forest generation](http://kfelter.com/?ref=gh_profile&dst=http://forest.kfelter.com) - fun project that uses javascript to recursively generate a forest
-* [tolerance](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/tolerance) - fault tolerant math operations in golang inspired by spacex
-* [apguard](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/apguard) - distributed proxy that acts as a rate limiter for downstream http services
-* [c++ arduino game](http://kfelter.com/?ref=gh_profile&dst=https://youtu.be/zAuerOaZ_Z8) - memory game deployed on an arduino
-* [go concurrency model](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/go_concurrency_example) - examples of how to use channels and go routines to design concurrent go code
-* [Caverunner](http://kfelter.com/?ref=gh_profile&dst=https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/kyle_felter.html) - While creating this game I had to think about limitations of graphics within the browser and how to make the code efficient enough to run on most computers.
-* [Path finding Hokie](http://kfelter.com/?ref=gh_profile&dst=https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/Proj8_4.html) - fun game that uses BFS to move a Hokie around in a maze.
-* [Basketball Game](http://kfelter.com/?ref=gh_profile&dst=https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/Proj5_4.html) - physics simulation in javascript used to make a small basketball game.
-* [things](http://kfelter.com/?ref=gh_profile&dst=https://github.com/kfelter/termpi) (not active)- basic crud app for managing raspberry pi clusters
+* [gRPC example](https://github.com/kfelter/grpc-example) - simple grpc NoSQL database client and server using golang
+* [protobuf example](https://github.com/kfelter/protobuf-example) - simple example demonstrating how to use protobuf in golang
+* [jumpsuit](https://github.com/kfelter/jumpsuit) - create a CRUD api out of any struct in golang with only a few lines of code
+* [ref collector](https://github.com/kfelter/ref_collector) - collects visits on my various projects and writes data about the visit to postgres
+* [react/python/serverless](http://hueput.kfelter.com) - color picking and voting app deployed using aws s3 and aws lambda
+* [recursive forest generation](http://forest.kfelter.com) - fun project that uses javascript to recursively generate a forest
+* [tolerance](https://github.com/kfelter/tolerance) - fault tolerant math operations in golang inspired by spacex
+* [apguard](https://github.com/kfelter/apguard) - distributed proxy that acts as a rate limiter for downstream http services
+* [c++ arduino game](https://youtu.be/zAuerOaZ_Z8) - memory game deployed on an arduino
+* [go concurrency model](https://github.com/kfelter/go_concurrency_example) - examples of how to use channels and go routines to design concurrent go code
+* [Caverunner](https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/kyle_felter.html) - While creating this game I had to think about limitations of graphics within the browser and how to make the code efficient enough to run on most computers.
+* [Path finding Hokie](https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/Proj8_4.html) - fun game that uses BFS to move a Hokie around in a maze.
+* [Basketball Game](https://filebox.ece.vt.edu/~mhsiao/video_game/proj2016/Proj5_4.html) - physics simulation in javascript used to make a small basketball game.
+* [things](https://github.com/kfelter/termpi) (not active)- basic crud app for managing raspberry pi clusters
 
 
 ## Certifications & Honors
@@ -113,3 +112,6 @@ solve real world problems.
 Studios
 
 service that created a graph representing microservice dependencies using http request tracing
+
+
+View Text Version: [TXT](README.md?raw=true)
