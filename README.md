@@ -14,21 +14,21 @@ With my deep expertise in Golang development, I have consistently delivered high
 
 ## Skills and Abilities
 
-- Golang (6 years), Python
+- Golang (6 years), python
 - SQL, NoSQL, Redis
 - Docker, Kubernetes, CI/CD
 - Google Cloud Platform, AWS, On-Prem
 
 ## Employment History
 
-### Contract (Golang, SQL, HTML, On-Prem) 10/2022 - 02/2023
+### Contract (Golang, SQL, HTML, Docker, On-Prem) 10/2022 - 02/2023
 
 * Client's email marketing and newsletter system needed to be completely replaced with an on prem solution
 * Built custom application in Go capible of sending 5MM high quality html emails per day
 * Created an internal tool to automate the creation of email campaigns and scheduling emails
 
-### Solo.io
-Senior Software Engineer (Golang, On-Prem) 02/2022 - 10/2022
+### Solo.io (Golang, Redis, Docker, On-Prem)
+Senior Software Engineer 02/2022 - 10/2022
 
 Solo.io is the leader in istio and kubernetes automation.
 
@@ -36,8 +36,8 @@ Solo.io is the leader in istio and kubernetes automation.
 * Implemented redis storage and retrieval of kubernetes statuses in a sharded environment with eventual consistency
 * Participate in support call rotation to receive customer calls for high priority issues
  
-### Spotify
-Backend Software Engineer II (Golang, GCP, AWS, On-Prem) 01/2021 - 02/2022
+### Spotify (Golang, PostgreSQL, Redis, GCP, AWS, Docker, On-Prem)
+Backend Software Engineer II  01/2021 - 02/2022
 
 Megaphone was purchased by Spotify, my contributions to the adserver and content delivery code around Streaming Ad Insertion was a large contributor to the deal. I am continuing my role, leading the backend development team focused on our largest applications written in golang. We are focused on scaling up to 1 billion podcast downloads a month and adding new features to an existing api.
 
@@ -48,8 +48,8 @@ Megaphone was purchased by Spotify, my contributions to the adserver and content
 * Created Streaming Ad Insertion Tracking capabilities for podcasting
 * Led code walkthrough's to help other developers understand the business logic of applications
 
-### Megaphone
-Software Engineer (Golang, AWS, Heroku, GCP, On-Prem) 09/2019 - 01/2021
+### Megaphone (Golang, PostgreSQL, Redis, Docker, AWS, Heroku, GCP, On-Prem)
+Software Engineer 09/2019 - 01/2021
 
 Megaphone is a leader in technology supporting podcasts. I am the lead developer on the backend services that
 support audio streaming and dynamic advertisement insertion.
@@ -60,8 +60,8 @@ support audio streaming and dynamic advertisement insertion.
 * Setup CI/CD pipelines to automate testing and deployment of code updates
 * Mentored junior golang developers through PRs and 1 on 1 meetings
 
-### Decipher Technology Studios
-Software Engineer (Golang, AWS) 11/2018 - 09/2019
+### Decipher Technology Studios (Golang, Docker, AWS)
+Software Engineer 11/2018 - 09/2019
 
 Decipher used the envoy proxy along with golang plugins to create a tool to manage a service mesh architecture. They also created a product to encrypt blobs of data before uploading encrypted blobs to s3, along with a complex authorization solution. I worked on the authorization solution for the data encryption product.
 
@@ -70,8 +70,8 @@ Decipher used the envoy proxy along with golang plugins to create a tool to mana
 * Created and maintained CI/CD pipeline written in circleci YAML
 * Dockerized golang applications for deployments using kubernetes
 
-### Blackstone Technology Group
-Software Engineer (Golang, AWS) 07/2017 - 11/2018
+### Blackstone Technology Group (Golang, Docker, AWS, Consul, Terraform, Ansible)
+Software Engineer 07/2017 - 11/2018
 
 Blackstone was a government contracting agency that helped US DHS with all cloud applications and technology.I worked as an integration engineer working with golang, terraform, and ansible.
 
