@@ -8,6 +8,8 @@ kylerfelter@gmail.com
 
 Nashville, TN
 
+Contact me for an introduction: https://calendly.com/kylefelter/30min
+
 ## About
 
 With my deep expertise in Golang development, I have consistently delivered highly efficient, reliable solutions to even the most daunting engineering challenges. I have a proven track record of creating and maintaining massive data pipelines, robust public APIs, and critical background processing jobs. And when it comes to infrastructure management, I have employed a range of powerful tools - Prometheus, Grafana, Pager Duty, New Relic - to ensure the uninterrupted operation of mission-critical services.
