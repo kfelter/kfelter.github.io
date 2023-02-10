@@ -23,8 +23,8 @@ With my deep expertise in Golang development, I have consistently delivered high
 
 ### Contract (Golang, SQL, HTML, On-Prem) 10/2022 - 02/2023
 
-* Client's email system needed to be completely replaced with an on prem solution
-* Created an application using golang that was able to send 5MM emails a day
+* Client's email marketing and newsletter system needed to be completely replaced with an on prem solution
+* Built custom application in Go capible of sending 5MM high quality html emails per day
 * Created an internal tool to automate the creation of email campaigns and scheduling emails
 
 ### Solo.io
