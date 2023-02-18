@@ -2,7 +2,6 @@
 
 Nashville, TN
 
-Contact me for an introduction: https://calendly.com/kylefelter/30min
 
 ## About
 
