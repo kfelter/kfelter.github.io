@@ -1,11 +1,5 @@
 # Kyle Felter
 
-![](30238027.jpg?raw=true)
-
-kylerfelter@gmail.com
-
-[github.com/kfelter](https://github.com/kfelter)
-
 Nashville, TN
 
 Contact me for an introduction: https://calendly.com/kylefelter/30min
